@@ -1,4 +1,4 @@
-package org.uv.Examen1Adriel;
+package org.uv.Examen1Christian;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
